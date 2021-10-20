@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gtharp
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science through the Harvard CS50 EdX Course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me George Tharp.org
 
