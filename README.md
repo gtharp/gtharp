@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gtharp
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning computer science through various online courses i.e. Harvard's CS 50 for Lawyers by EdX, Udemy Courses and free code camp
+- 🌱 I’m currently learning computer science through various online courses i.e. Udemy Courses and free code camp
+- 🧠 I've finished: Harvard's CS 50 for lawyers via Edx.com
 
 - 📫 How to reach me: Georgetharp.org
 
