@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gtharp
-- 👀 I’m interested in learning to code as a hobby
-- 🧠 I've finished: Harvard's CS 50 for lawyers via Edx.com
 
 - 📫 How to reach me: Georgetharp.org
 
